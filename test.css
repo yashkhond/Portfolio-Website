@@ -1,0 +1,113 @@
+.title {
+  height: 50px;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  background: rgb(223, 203, 203);
+}
+#link {
+  list-style: none;
+  float: left;
+  border: solid;
+  padding: 5px;
+  margin-left: 50px;
+  border-radius: 10px;
+  background: rgba(255, 89, 0, 0.849);
+}
+#nav_list {
+  text-decoration: none;
+  padding: 25px;
+  color: aliceblue;
+}
+#link:hover {
+  background: rgb(63, 135, 244);
+}
+
+.navigation {
+  height: 70px;
+  margin-left: 200px;
+}
+#profile {
+  width: auto;
+  border-radius: 12%;
+  height: 400px;
+  margin-top: 5px;
+  /* padding: 50px; */
+  float: left;
+  /* width: 800px; */
+  margin-left: -5px;
+  /* border-radius: 25px; */
+  box-shadow: 5px 5px 5px rgb(143 137 137);
+}
+
+.about_div {
+  margin-left: 350px;
+  margin-top: 19px;
+  padding: 15px;
+  border: solid #000;
+  font-size: larger;
+  margin-right: 500px;
+  border-radius: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 5px 5px 5px rgb(143 137 137);
+  margin-bottom: 120px;
+  background: rgb(227, 213, 213);
+  padding: 50px;
+}
+#View {
+  color: rgb(8, 136, 248);
+  background: rgb(255, 192, 192);
+  text-decoration: none;
+  font-size: large;
+  font-weight: 1000;
+  padding: 5px;
+  border-radius: 10px;
+}
+#View:hover {
+  background: rgb(118, 39, 255);
+  color: beige;
+}
+.project {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  /* box-sizing: content-box; */
+  /* border: solid rgb(88, 88, 88); */
+}
+.achievement {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  float: right;
+  padding: 12px;
+  margin-left: 900px;
+  margin-top: -495px;
+  margin-bottom: -1200px;
+  margin-right: 30px;
+  border: solid black;
+  box-shadow: 5px 5px 5px rgb(143 137 137);
+  background: rgb(240, 137, 137);
+  border-radius: 10px;
+}
+
+.contact {
+  font-size: larger;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 50px;
+}
+
+#social_link {
+  text-decoration: none;
+  margin-left: 2px;
+}
+
+#social_p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+  margin-top: -10px;
+}
+.social_div{
+  margin-top: -30px;
+}
+
+#no_dot{
+  list-style: none;
+}
